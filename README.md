@@ -1,1 +1,2 @@
-# ledgerbugdev.github.io
+# Ledgerbug Solutions
+## Bookkeeping Services for Small Business
